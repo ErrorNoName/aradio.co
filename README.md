@@ -30,12 +30,9 @@
 
 ## 🎬 Aperçu de l'Application
 
-<video width="800" controls>
-  <source src="https://hello.ilove-your.mom/content/cdn/cFPNwnWrpxeb.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture de vidéos HTML5.
-</video>
+[![Aperçu vidéo aradio.co](https://img.shields.io/badge/▶️_Voir_la_démo-8b5a3c?style=for-the-badge&logo=play&logoColor=white)](https://hello.ilove-your.mom/content/cdn/cFPNwnWrpxeb.mp4)
 
-<p><em>Découvrez aradio.co en action - interface moderne et expérience utilisateur fluide</em></p>
+<p><em>Cliquez sur le bouton ci-dessus pour voir aradio.co en action</em></p>
 
 </div>
 
