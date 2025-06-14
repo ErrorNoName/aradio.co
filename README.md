@@ -29,13 +29,15 @@
 <div align="center">
 
 ## 🎬 Aperçu de l'Application
-
 [![Aperçu vidéo aradio.co](https://img.shields.io/badge/▶️_Voir_la_démo-8b5a3c?style=for-the-badge&logo=play&logoColor=white)](https://hello.ilove-your.mom/content/cdn/cFPNwnWrpxeb.mp4)
 
 <p><em>Cliquez sur le bouton ci-dessus pour voir aradio.co en action</em></p>
 
 </div>
 
+<p align="center">
+  <img src="https://images-ext-1.discordapp.net/external/irImMZIYWmdI50Yni38fWCEd2aWYZj1T8FnQW4wT01s/https/hello.ilove-your.mom/content/cdn/GEYKeSzbkwqB.png" alt="logo aradio.co" style="border-radius: 20px; margin: 2rem 0;"/>
+</p>
 ---
 
 ## ✨ Fonctionnalités Qui Vous Font Sourire
